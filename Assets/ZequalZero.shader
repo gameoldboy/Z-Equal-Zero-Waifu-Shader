@@ -45,8 +45,6 @@ Shader "CH's/ZequalZero"
 
             sampler2D _MainTex;
             float4 _MainTex_ST;
-			float4x4 _LightSpace2World;
-			float4x4 _World2LightSpace;
 			float _Flat;
 			float _ToonSmooth;
 
